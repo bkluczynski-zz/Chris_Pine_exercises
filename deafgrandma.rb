@@ -1,4 +1,4 @@
-reponse = nil
+response = nil
 bye = 0
 response2 = "HUH!? SPEAK UP, SONNY!"
 
